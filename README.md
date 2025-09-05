@@ -15,4 +15,11 @@ Este repositório tem como objetivo armazenar e organizar as **atividades, exerc
 
 ## Atividades  
 - ✅ Backtracking  
-- ⏳ BFS e DFS  
+- ✅ BFS e DFS (busca em Largura e Profundidade)
+- ✅ Busca Heurística
+- ⏳ Algoritmos de Busca Heurística
+- ⏳ A*
+- ⏳ Algorittmos de Busca
+- ⏳ Minimax
+- ⏳ Algoritmos Genéticos
+- ⏳ Algoritmos Genéticos e Snake
